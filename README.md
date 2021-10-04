@@ -1,6 +1,6 @@
 - 👋 Hey, I'm Saarang.
 - 👀 I’m interested in game dev, programming, 3D modelling and design, sketching, and drumming!
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python and Blender.
 - 📫 How to reach me:
 1. Mail: saaranganand2013@gmail.com
 2. Discord: smuggler#2323
