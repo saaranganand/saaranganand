@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Blender.
 - 📫 How to reach me: Mail - saaranganand2013@gmail.com / Discord - smuggler#2323
 
-[![Saarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaranganand)](https://github.com/anuraghazra/github-readme-stats)
+[![Saarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaranganand&theme=tokyonight)]
 
 <!---
 saaranganand/saaranganand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
