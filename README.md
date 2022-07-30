@@ -5,7 +5,7 @@
 
   &nbsp;
 <a href="mailto:saaranganand2013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-saaranganand2013%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-saaranganand2013%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
 <a href="https://discordapp.com/users/359985187582378004">
