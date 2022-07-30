@@ -1,6 +1,6 @@
 # Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
 - Not much to see here at the moment. But I plan on adding stuff soon!
-- I’m interested in artificial intelligence, game design and development, 3D modelling, sketching, drumming and laughing at unfunny memes.
+- I’m interested in all things computers, artificial intelligence, game design and development, 3D modelling, sketching, cycling, drumming and laughing at unfunny memes.
 - I'm currently learning C, Python, Blender and Unity.
 
   &nbsp;
