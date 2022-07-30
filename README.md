@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Saarang. Welcome to my Github!
+# Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
 - Not much to see here at the moment. But I plan on adding stuff soon!
-- 👀 I’m interested in artificial intelligence, game design and development, 3D modelling, sketching, drumming and laughing at unfunny memes.
-- 📖 I'm currently learning C, Python, Blender and Unity.
+- I’m interested in artificial intelligence, game design and development, 3D modelling, sketching, drumming and laughing at unfunny memes.
+- I'm currently learning C, Python, Blender and Unity.
 
   &nbsp;
 <a href="mailto:saaranganand2013@gmail.com">
