@@ -1,5 +1,5 @@
 # Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
-- I’m interested in all things computers, artificial intelligence, machine learning and automation, game design and development, 3D modelling, sketching, cycling, drumming and laughing at unfunny memes.
+I’m interested in all things computers, artificial intelligence, machine learning and automation, game design and development, 3D modelling, sketching, cycling, drumming and laughing at unfunny memes.
 
   &nbsp;
 <a href="mailto:saaranganand2013@gmail.com">
