@@ -1,5 +1,5 @@
 # Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
-I’m interested in all things computers.
+Reach out to me via:
 
   &nbsp;
 <a href="mailto:saaranganand2013@gmail.com">
