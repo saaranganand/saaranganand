@@ -1,5 +1,5 @@
 # Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
-Whether you want to ask me something about my stuff or you would rather chat, reach out to me via:
+Whether you want to ask me something about my stuff or you simply want to chat, reach out to me via:
 
   &nbsp;
 <a href="mailto:saaranganand2013@gmail.com">
