@@ -13,7 +13,7 @@ Whether you want to ask me something about my stuff or you simply want to chat, 
   &nbsp;
 
 [![Saarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaranganand&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaranganand&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaranganand&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 saaranganand/saaranganand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
