@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&repeat=true&width=435&color=F7F7F7FF&lines=Hey,+%20+how's+it+going?;I'm+Saarang.;Welcome+to+my+Github!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&repeat=true&width=435&color=F7F7F7FF&lines=Hey,+%20+how's+it+going?;I'm+Saarang.;Welcome+to+my+Github!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 Whether you want to ask me something about my stuff or you simply want to chat, reach out to me via:
 
