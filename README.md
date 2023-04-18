@@ -1,4 +1,5 @@
-# Hey, I'm Saarang. Welcome to my Github! 🙋‍♂️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&repeat=false&width=435&lines=Hey,+%20+how's+it+going?;I'm+Saarang.;Welcome+to+my+Github!)](https://git.io/typing-svg)
+
 Whether you want to ask me something about my stuff or you simply want to chat, reach out to me via:
 
   &nbsp;
