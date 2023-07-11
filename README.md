@@ -10,12 +10,12 @@ Whether you want to ask me something about my stuff or you simply want to chat, 
 <a href="https://discordapp.com/users/359985187582378004" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Discord-smugglerman-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  
+<!---
   &nbsp;
-
+  
 [![Saarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaranganand&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaranganand&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 <!---
 saaranganand/saaranganand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
