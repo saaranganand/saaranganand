@@ -34,7 +34,7 @@ I'm familiar with:
 <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/black/white?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30" /></a><img width="6" />
 <a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=30" /></a><img width="6" />
-<a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/githubcopilot/black/silver?viewbox=auto&size=30" /></a><img width="6" />
+<a href="https://github.com/features/copilot"><img src="https://cdn.simpleicons.org/githubcopilot/black/silver?viewbox=auto&size=30" /></a><img width="6" />
 <!-- Web & Frameworks -->
 <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&size=25" /></a><img width="6" />
@@ -51,7 +51,7 @@ I'm familiar with:
 <a href="https://godotengine.org/"><img src="https://cdn.simpleicons.org/godotengine?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.raylib.com/"><img src="https://cdn.simpleicons.org/raylib/black/white?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.libsdl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" width="35"/></a><img width="6" />
-<a href="https://www.raylib.com/"><img src="https://cdn.simpleicons.org/monogame?viewbox=auto&size=30" /></a><img width="6" />
+<a href="https://monogame.net/"><img src="https://cdn.simpleicons.org/monogame?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.opengl.org/"><img src="https://cdn.simpleicons.org/opengl?viewbox=auto&size=30" /></a><img width="6" />
 <!-- Infrastructure & Tools -->
 <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git?viewbox=auto&size=30" /></a><img width="6" />
