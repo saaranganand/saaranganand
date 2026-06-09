@@ -20,6 +20,7 @@ I'm familiar with:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/></a><img width="6" />
+<a href="https://odin-lang.org/"><img src="https://cdn.simpleicons.org/odin?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.lua.org/"><img src="https://cdn.simpleicons.org/lua/default/lightblue?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://kotlinlang.org/"><img src="https://cdn.simpleicons.org/kotlin?viewbox=auto&size=30" /></a><img width="6" />
 <a href="https://www.r-project.org/"><img src="https://cdn.simpleicons.org/r?viewbox=auto&size=30" /></a><img width="6" />
