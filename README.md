@@ -4,7 +4,6 @@ Whether you want to ask me something about my stuff or you simply want to chat, 
 
 <a href="mailto:saaranganand2013@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Gmail" /></a><img width="6" />
 <a href="https://www.linkedin.com/in/saaranganand" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" /></a><img width="6" />
-<a href="https://discordapp.com/users/359985187582378004" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/discord" width="30" height="30" alt="Discord" /></a>
 
 I'm familiar with: 
 <!-- Languages -->
