@@ -16,7 +16,6 @@ I'm familiar with:
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" /></a><img width="6" />
 <a href="https://odin-lang.org/"><img src="https://cdn.simpleicons.org/odin" width="30" height="30" /></a><img width="6" />
 <a href="https://www.lua.org/"><img src="https://cdn.simpleicons.org/lua/default/lightblue" width="30" height="30" /></a><img width="6" />
-<a href="https://kotlinlang.org/"><img src="https://cdn.simpleicons.org/kotlin" width="30" height="30" /></a><img width="6" />
 <a href="https://www.r-project.org/"><img src="https://cdn.simpleicons.org/r" width="30" height="30" /></a><img width="6" />
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash" width="30" height="30" /></a><img width="6" />
 <a href="https://www.latex-project.org/"><img src="https://cdn.simpleicons.org/latex" width="30" height="30" /></a><img width="6" />
@@ -39,14 +38,11 @@ I'm familiar with:
 <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/springboot" width="30" height="30" /></a><img width="6" />
 <a href="https://junit.org/"><img src="https://cdn.simpleicons.org/junit5" width="30" height="30" /></a><img width="6" />
 <a href="https://restfulapi.net/"><img src="https://cdn.simpleicons.org/fastapi" width="30" height="30" /></a><img width="6" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5" width="30" height="30" /></a><img width="6" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css" width="30" height="30" /></a><img width="6" />
 <!-- Game Dev / Graphics -->
 <a href="https://unity.com/"><img src="https://cdn.simpleicons.org/unity/black/white" width="30" height="30" /></a><img width="6" />
 <a href="https://godotengine.org/"><img src="https://cdn.simpleicons.org/godotengine" width="30" height="30" /></a><img width="6" />
 <a href="https://www.raylib.com/"><img src="https://cdn.simpleicons.org/raylib/black/white" width="30" height="30" /></a><img width="6" />
 <a href="https://www.libsdl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" width="30" height="30" /></a><img width="6" />
-<a href="https://monogame.net/"><img src="https://cdn.simpleicons.org/monogame" width="30" height="30" /></a><img width="6" />
 <a href="https://www.opengl.org/"><img src="https://cdn.simpleicons.org/opengl" width="30" height="30" /></a><img width="6" />
 <!-- Infrastructure & Tools -->
 <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git" width="30" height="30" /></a><img width="6" />
@@ -66,9 +62,6 @@ I'm familiar with:
 <a href="https://fedoraproject.org/"><img src="https://cdn.simpleicons.org/fedora" width="30" height="30" /></a><img width="6" />
 <a href="https://www.android.com/"><img src="https://cdn.simpleicons.org/android" width="30" height="30" /></a><img width="6" />
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" /></a><img width="6" />
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.simpleicons.org/pycharm/lightgreen" width="30" height="30" /></a><img width="6" />
-<a href="https://www.jetbrains.com/idea/"><img src="https://cdn.simpleicons.org/intellijidea/hotpink" width="30" height="30" /></a><img width="6" />
-<a href="https://www.jetbrains.com/clion/"><img src="https://cdn.simpleicons.org/clion/teal" width="30" height="30" /></a><img width="6" />
 <a href="https://developer.apple.com/xcode/"><img src="https://cdn.simpleicons.org/xcode" width="30" height="30" /></a><img width="6" />
 <a href="https://neovim.io/"><img src="https://cdn.simpleicons.org/neovim" width="30" height="30" /></a><img width="6" />
 <a href="https://ffmpeg.org/"><img src="https://cdn.simpleicons.org/ffmpeg" width="30" height="30" /></a><img width="6" />
